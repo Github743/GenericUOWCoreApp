@@ -12,7 +12,7 @@ namespace CoreApp.DataService
         public UnitOfWork(IConfiguration configuration)
         {
             var optionsBuilder = new DbContextOptionsBuilder<DatabaseContext>();
-            optionsBuilder.UseSqlite(configuration["ConnectionStrings:dbConnection"]);
+            optionsBuilder.UseSqlServer(configuration["ConnectionStrings:dbConnection"]);
             _context = new DatabaseContext(optionsBuilder.Options);
         }
 

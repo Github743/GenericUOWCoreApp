@@ -6,3 +6,4 @@ D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.Asse
 D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.AssemblyInfo.cs
 D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.dll
 D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.pdb
+D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.csprojResolveAssemblyReference.cache

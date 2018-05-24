@@ -1,18 +1,19 @@
 ﻿using CoreApp.DataService.Abstraction.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
-using System.Threading.Tasks;
 using DTO = CoreApp.Models.DataTransfer;
 using VM = CoreApp.Models.ViewModels;
 
 namespace CoreApp.Web.Controllers.Api
 {
-    [Produces("application/json")]
-    [Route("api/Employee")]
+    [Route("api/[controller]")]
     public class EmployeeController : EntityBaseApiController<VM.EmployeeViewModel, DTO.Employee>
     {
-        public EmployeeController(IEmployeeService entityService, IConfiguration configuration) : base(entityService, configuration)
+        private readonly IEmployeeService _employeeService;
+
+        public EmployeeController(IEmployeeService employeeService, IConfiguration configuration) : base(employeeService, configuration)
         {
+            _employeeService = employeeService;
         }
     }
 }
