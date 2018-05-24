@@ -1,0 +1,12 @@
+D:\GenericUOWCoreApp\CoreApp.DataProvider\bin\Debug\netstandard2.0\CoreApp.DataProvider.deps.json
+D:\GenericUOWCoreApp\CoreApp.DataProvider\bin\Debug\netstandard2.0\CoreApp.DataProvider.dll
+D:\GenericUOWCoreApp\CoreApp.DataProvider\bin\Debug\netstandard2.0\CoreApp.DataProvider.pdb
+D:\GenericUOWCoreApp\CoreApp.DataProvider\bin\Debug\netstandard2.0\CoreApp.Models.dll
+D:\GenericUOWCoreApp\CoreApp.DataProvider\bin\Debug\netstandard2.0\CoreApp.Models.pdb
+D:\GenericUOWCoreApp\CoreApp.DataProvider\obj\Debug\netstandard2.0\CoreApp.DataProvider.csprojResolveAssemblyReference.cache
+D:\GenericUOWCoreApp\CoreApp.DataProvider\obj\Debug\netstandard2.0\CoreApp.DataProvider.csproj.CoreCompileInputs.cache
+D:\GenericUOWCoreApp\CoreApp.DataProvider\obj\Debug\netstandard2.0\CoreApp.DataProvider.AssemblyInfoInputs.cache
+D:\GenericUOWCoreApp\CoreApp.DataProvider\obj\Debug\netstandard2.0\CoreApp.DataProvider.AssemblyInfo.cs
+D:\GenericUOWCoreApp\CoreApp.DataProvider\obj\Debug\netstandard2.0\CoreApp.DataProvider.csproj.CopyComplete
+D:\GenericUOWCoreApp\CoreApp.DataProvider\obj\Debug\netstandard2.0\CoreApp.DataProvider.dll
+D:\GenericUOWCoreApp\CoreApp.DataProvider\obj\Debug\netstandard2.0\CoreApp.DataProvider.pdb

@@ -1,0 +1,8 @@
+D:\GenericUOWCoreApp\CoreApp.Models\bin\Debug\netstandard2.0\CoreApp.Models.deps.json
+D:\GenericUOWCoreApp\CoreApp.Models\bin\Debug\netstandard2.0\CoreApp.Models.dll
+D:\GenericUOWCoreApp\CoreApp.Models\bin\Debug\netstandard2.0\CoreApp.Models.pdb
+D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.csproj.CoreCompileInputs.cache
+D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.AssemblyInfoInputs.cache
+D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.AssemblyInfo.cs
+D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.dll
+D:\GenericUOWCoreApp\CoreApp.Models\obj\Debug\netstandard2.0\CoreApp.Models.pdb

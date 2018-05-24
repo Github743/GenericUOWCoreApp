@@ -1,0 +1,10 @@
+*.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.dll
+*.pdb
+
+bootstrap
+lib

@@ -1,0 +1,14 @@
+D:\GenericUOWCoreApp\CoreApp.DataService\bin\Debug\netstandard2.0\CoreApp.DataService.deps.json
+D:\GenericUOWCoreApp\CoreApp.DataService\bin\Debug\netstandard2.0\CoreApp.DataService.dll
+D:\GenericUOWCoreApp\CoreApp.DataService\bin\Debug\netstandard2.0\CoreApp.DataService.pdb
+D:\GenericUOWCoreApp\CoreApp.DataService\bin\Debug\netstandard2.0\CoreApp.DataProvider.dll
+D:\GenericUOWCoreApp\CoreApp.DataService\bin\Debug\netstandard2.0\CoreApp.Models.dll
+D:\GenericUOWCoreApp\CoreApp.DataService\bin\Debug\netstandard2.0\CoreApp.DataProvider.pdb
+D:\GenericUOWCoreApp\CoreApp.DataService\bin\Debug\netstandard2.0\CoreApp.Models.pdb
+D:\GenericUOWCoreApp\CoreApp.DataService\obj\Debug\netstandard2.0\CoreApp.DataService.csprojResolveAssemblyReference.cache
+D:\GenericUOWCoreApp\CoreApp.DataService\obj\Debug\netstandard2.0\CoreApp.DataService.csproj.CoreCompileInputs.cache
+D:\GenericUOWCoreApp\CoreApp.DataService\obj\Debug\netstandard2.0\CoreApp.DataService.AssemblyInfoInputs.cache
+D:\GenericUOWCoreApp\CoreApp.DataService\obj\Debug\netstandard2.0\CoreApp.DataService.AssemblyInfo.cs
+D:\GenericUOWCoreApp\CoreApp.DataService\obj\Debug\netstandard2.0\CoreApp.DataService.csproj.CopyComplete
+D:\GenericUOWCoreApp\CoreApp.DataService\obj\Debug\netstandard2.0\CoreApp.DataService.dll
+D:\GenericUOWCoreApp\CoreApp.DataService\obj\Debug\netstandard2.0\CoreApp.DataService.pdb
