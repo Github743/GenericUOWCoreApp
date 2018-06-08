@@ -12,5 +12,6 @@ namespace CoreApp.DataService.Abstraction.Interfaces
         int CurrentEmployeeId { get; set; }
 
         Task<IEnumerable<TDto>> ListOfDtoAsync();
+        //Task<IServiceResult> AddAsync(TDto dto);
     }
 }

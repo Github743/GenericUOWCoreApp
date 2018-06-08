@@ -67,5 +67,21 @@ namespace CoreApp.Web.Controllers.Api
             }
 
         }
+
+        //protected async Task<IActionResult> Add(BaseViewModel viewModel)
+        //    => await ServiceCall(async entitySerivce => await entitySerivce.AddAsync(Mapper.Map<TDto>(viewModel)));
+
+        [HttpGet]
+        public virtual async Task<IActionResult> Get()
+        {
+            return await GetAll();
+        }
+
+        // POST api/values
+        //[HttpPost]
+        //public virtual async Task<IActionResult> Post([FromBody]TViewModel dataObject)
+        //{
+        //    return await Add(dataObject);
+        //}
     }
 }
